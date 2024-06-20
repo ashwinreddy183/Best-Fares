@@ -8,7 +8,7 @@
 2) Interactive Input: Users can specify the departure city, arrival city, and travel date.
 3) Data Export: The scraped data is saved to a CSV file for easy reference and analysis.
 
-How to Use:
+**How to Use:**
 
 Set Up the Environment:
 
@@ -16,13 +16,13 @@ Ensure you have Python 3.x, Selenium, BeautifulSoup, and Chrome WebDriver instal
 Install the required Python packages using:
 sh
 Copy code
-pip install selenium beautifulsoup4
+**pip install selenium beautifulsoup4**
 Run the Python Script:
 
 Execute the script using Python:
 sh
 Copy code
-python best_fares_scraper.py
+**python best_fares_scraper.py**
 Input Flight Details:
 
 Define the departure city, arrival city, and travel date in the script:
