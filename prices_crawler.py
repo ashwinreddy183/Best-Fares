@@ -10,7 +10,7 @@ from selenium.webdriver.support import expected_conditions as EC
 # User defined variables for data retreival
 origin = "BOM" 		#Find three letter abbrevs for all cities		#For departure city u need to find the three letter code	
 destin = "DEL" 			 #For arrival city u find the three letter code	
-trDate = "28/06/2023"			#You can enter any date in this format
+trDate = "21/08/2024"			#You can enter any date in this format
 
 baseDataUrl = "https://www.makemytrip.com/flight/search?itinerary="+ origin +"-"+ destin +"-"+ trDate +"&tripType=O&paxType=A-1_C-0_I-0&intl=false&=&cabinClass=E"
 
